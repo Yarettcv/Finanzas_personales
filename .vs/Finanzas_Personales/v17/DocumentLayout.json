@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Ejercicios Programaci\u00F3n\\Finanzas_Personales\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4488C940-CAC5-454C-AE49-4579E9F1DD3F}|Finanzas_Personales\\Finanzas_Personales.csproj|c:\\ejercicios programaci\u00F3n\\finanzas_personales\\finanzas_personales\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488C940-CAC5-454C-AE49-4579E9F1DD3F}|Finanzas_Personales\\Finanzas_Personales.csproj|solutionrelative:finanzas_personales\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488C940-CAC5-454C-AE49-4579E9F1DD3F}|Finanzas_Personales\\Finanzas_Personales.csproj|c:\\ejercicios programaci\u00F3n\\finanzas_personales\\finanzas_personales\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488C940-CAC5-454C-AE49-4579E9F1DD3F}|Finanzas_Personales\\Finanzas_Personales.csproj|solutionrelative:finanzas_personales\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4488C940-CAC5-454C-AE49-4579E9F1DD3F}|Finanzas_Personales\\Finanzas_Personales.csproj|c:\\ejercicios programaci\u00F3n\\finanzas_personales\\finanzas_personales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4488C940-CAC5-454C-AE49-4579E9F1DD3F}|Finanzas_Personales\\Finanzas_Personales.csproj|solutionrelative:finanzas_personales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientosController.cs",
+              "DocumentMoniker": "C:\\Ejercicios Programaci\u00F3n\\Finanzas_Personales\\Finanzas_Personales\\Controllers\\MovimientosController.cs",
+              "RelativeDocumentMoniker": "Finanzas_Personales\\Controllers\\MovimientosController.cs",
+              "ToolTip": "C:\\Ejercicios Programaci\u00F3n\\Finanzas_Personales\\Finanzas_Personales\\Controllers\\MovimientosController.cs",
+              "RelativeToolTip": "Finanzas_Personales\\Controllers\\MovimientosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:28:32.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Ejercicios Programaci\u00F3n\\Finanzas_Personales\\Finanzas_Personales\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Finanzas_Personales\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Ejercicios Programaci\u00F3n\\Finanzas_Personales\\Finanzas_Personales\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Finanzas_Personales\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:18:07.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ejercicios Programaci\u00F3n\\Finanzas_Personales\\Finanzas_Personales\\Program.cs",
+              "RelativeDocumentMoniker": "Finanzas_Personales\\Program.cs",
+              "ToolTip": "C:\\Ejercicios Programaci\u00F3n\\Finanzas_Personales\\Finanzas_Personales\\Program.cs",
+              "RelativeToolTip": "Finanzas_Personales\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:49:00.656Z",
+              "EditorCaption": ""
             }
           ]
         }
